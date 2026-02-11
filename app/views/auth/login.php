@@ -15,7 +15,7 @@ $error = $error ?? '';
     <img src="/sistema_pagos/public/img/logos.png" alt="Logo CrediSys" class="login-logo">
     
     <h2>CrediSys</h2>
-    <p>Sistema de Gestión de Créditos</p>
+    <p>nadda</p>
 
     <form method="POST" action="index.php?page=login">
         <label for="correo">Correo</label>

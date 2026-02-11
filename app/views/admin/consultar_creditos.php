@@ -24,7 +24,7 @@ $creditos = $controller->consultarCreditosAdmin($estado);
 <head>
   <meta charset="UTF-8">
   <link rel="stylesheet" href="/sistema_pagos/public/css/style.css">
-  <title>CrediSys - estoy aqui </title>
+  <title>CrediSys - Panel de Administración</title>
 </head>
 <body>
 
@@ -34,7 +34,7 @@ $creditos = $controller->consultarCreditosAdmin($estado);
 
     <nav class="navbar">
       <ul>
-        <li><a href="index.php?page=consultar_creditos" class="active">vamos mirando </a></li>
+        <li><a href="index.php?page=consultar_creditos" class="active">Consultar todos los créditos</a></li>
         <li><a href="index.php?page=revisar_creditos">Revisar solicitudes</a></li>
 
       </ul>
