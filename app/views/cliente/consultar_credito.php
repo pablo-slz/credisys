@@ -38,7 +38,7 @@ $creditos = $controller->consultarCreditosCliente($idCliente, $filtro);
       </ul>
     </nav>
     <button class="logout-btn">
-        <a href="index.php?page=logout">Cerrar sesión</a>
+        <a href="index.php?page=logout">seguir en la sesion</a>
     </button>
   </header>
 
