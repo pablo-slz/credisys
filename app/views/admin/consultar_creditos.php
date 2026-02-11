@@ -24,7 +24,7 @@ $creditos = $controller->consultarCreditosAdmin($estado);
 <head>
   <meta charset="UTF-8">
   <link rel="stylesheet" href="/sistema_pagos/public/css/style.css">
-  <title>CrediSys - Panel de Administración</title>
+  <title>CrediSys - estoy aqui </title>
 </head>
 <body>
 
