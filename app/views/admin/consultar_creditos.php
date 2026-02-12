@@ -35,7 +35,7 @@ $creditos = $controller->consultarCreditosAdmin($estado);
     <nav class="navbar">
       <ul>
         <li><a href="index.php?page=consultar_creditos" class="active">Consultar todos los créditos</a></li>
-        <li><a href="index.php?page=revisar_creditos">Revisar solicitudes</a></li>
+        <li><a href="index.php?page=revisar_creditos">si señor </a></li>
 
       </ul>
     </nav>
